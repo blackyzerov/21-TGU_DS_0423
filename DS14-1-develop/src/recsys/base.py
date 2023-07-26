@@ -31,7 +31,7 @@ class ContentBaseRecSys:
         return set(genres)
 
     def get_data(self) -> Set[int]:
-        return self.movies['date'].dropna().unique().astype(int)
+        return self.movies['date'].sort_values().dropna().unique().astype(int)
 
     def get_filter_data(self, selected_data: int):
         self.movies = self.movies.query('date in @selected_data')

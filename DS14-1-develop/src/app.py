@@ -74,10 +74,10 @@ if st.button('Нажми для рекомендаций'):   # recommendation b
 
 st.sidebar.info(
     """
-    mail: blacky.belov@gmail.com
-    mail: teodoroe@student.21-school.ru
-    Intensive Parallel 21 TGU_DS_0423
-    Tribe Tournament Uranus
-    08.08.2023
+    mail: blacky.belov@gmail.com  
+    mail: teodoroe@student.21-school.ru  
+    Intensive Parallel 21 TGU_DS_0423  
+    Tribe Tournament Uranus  
+    08.08.2023  
     """
 )
