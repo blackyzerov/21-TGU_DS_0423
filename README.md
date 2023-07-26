@@ -10,7 +10,7 @@ DS07-1 - Алгоритмы на основе деревьев
 DS08-1 - Обучение без учителя  
 DS09-1 - CV, NLP, Audio  
 DS10-1 - Введение в SQL  
-DS11-1 - Прикладная статистика
+DS11-1 - Прикладная статистика  
 DS12-1 - Data Engineering  
-DS_13-1 - Recommendation System
-DS14-1 - Recommendation Service
+DS_13-1 - Recommendation System  
+DS14-1 - Recommendation Service  
