@@ -2,7 +2,6 @@
 
 ## Service run
 ~~~
-cd src
-~~~
+cd ./src/
 streamlit run app.py
 ~~~
