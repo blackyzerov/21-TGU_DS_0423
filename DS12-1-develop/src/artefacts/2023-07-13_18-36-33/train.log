@@ -1,0 +1,9 @@
+[[36m2023-07-13 18:36:33,544[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - Starting pipeline[0m
+[[36m2023-07-13 18:36:33,549[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - data.shape is (1025, 14)[0m
+[[36m2023-07-13 18:36:33,551[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - Starting transforms[0m
+[[36m2023-07-13 18:36:33,604[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - train_features.shape is (768, 28)[0m
+[[36m2023-07-13 18:36:35,704[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - test_features.shape is (257, 28)[0m
+[[36m2023-07-13 18:36:35,711[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - metrics is {'accuracy': 0.8171206225680934}[0m
+[[36m2023-07-13 18:36:35,713[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - metrics saved to C:\Users\Alexseich\DS12-1-develop\src\artefacts\2023-07-13_18-36-33\metrics\log-reg.json[0m
+[[36m2023-07-13 18:36:35,716[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - model saved to C:\Users\Alexseich\DS12-1-develop\src\artefacts\2023-07-13_18-36-33\models\log-reg.pkl[0m
+[[36m2023-07-13 18:36:35,717[0m][[34m__main__[0m][[36mMainThread[0m][[32mINFO[0m] - Finish train[0m
